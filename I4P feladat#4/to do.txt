@@ -1,0 +1,4 @@
+ablakot nem lehet betörni
+nézd parancs config
+setdescription config
+mentés és betöltés
